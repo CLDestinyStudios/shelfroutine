@@ -1,0 +1,3 @@
+# Private review: crawlers blocked. At launch change to "Allow: /".
+User-agent: *
+Disallow: /
