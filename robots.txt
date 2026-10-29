@@ -1,3 +1,4 @@
-# Private review: crawlers blocked. At launch change to "Allow: /".
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://cldestinystudios.github.io/shelfroutine/sitemap.xml
